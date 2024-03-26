@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "first_name": "Maureene",
+        "last_name": "Lesper",
+        "date_of_birth": "28/08/2024",
+        "country": "Greece",
+        "phone": "1516572870"
+    },
+    {
+        "id": 2,
+        "first_name": "Joaquin",
+        "last_name": "Woolford",
+        "date_of_birth": "25/09/2024",
+        "country": "Brazil",
+        "phone": "6377818007"
+    },
+    {
+        "id": 3,
+        "first_name": "Vere",
+        "last_name": "Cuniam",
+        "date_of_birth": "21/01/2025",
+        "country": "United Kingdom",
+        "phone": "3673008877"
+    },
+    {
+        "id": 4,
+        "first_name": "Conchita",
+        "last_name": "Futter",
+        "date_of_birth": "06/06/2024",
+        "country": "Nigeria",
+        "phone": "7178938548"
+    },
+    {
+        "id": 5,
+        "first_name": "Ferdinanda",
+        "last_name": "Christou",
+        "date_of_birth": "14/11/2024",
+        "country": "Peru",
+        "phone": "5938376176"
+    },
+    {
+        "id": 6,
+        "first_name": "Kristoforo",
+        "last_name": "Chillingsworth",
+        "date_of_birth": "24/09/2024",
+        "country": "Netherlands",
+        "phone": "2089768520"
+    },
+    {
+        "id": 7,
+        "first_name": "Zsazsa",
+        "last_name": "Renshell",
+        "date_of_birth": "26/09/2024",
+        "country": "Armenia",
+        "phone": "5196184474"
+    },
+    {
+        "id": 8,
+        "first_name": "Dionne",
+        "last_name": "Windus",
+        "date_of_birth": "25/01/2025",
+        "country": "Russia",
+        "phone": "8383323851"
+    },
+    {
+        "id": 9,
+        "first_name": "Alix",
+        "last_name": "Boulger",
+        "date_of_birth": "23/09/2024",
+        "country": "United Kingdom",
+        "phone": "1216752358"
+    },
+    {
+        "id": 10,
+        "first_name": "Benedetta",
+        "last_name": "Kumar",
+        "date_of_birth": "20/11/2024",
+        "country": "China",
+        "phone": "9406555791"
+    },
+    {
+        "id": 11,
+        "first_name": "Sue",
+        "last_name": "McLeese",
+        "date_of_birth": "31/01/2025",
+        "country": "Morocco",
+        "phone": "3189183984"
+    },
+    {
+        "id": 12,
+        "first_name": "Lucretia",
+        "last_name": "Bleasdille",
+        "date_of_birth": "11/01/2025",
+        "country": "Guam",
+        "phone": "9573263912"
+    },
+    {
+        "id": 13,
+        "first_name": "Corette",
+        "last_name": "Sibborn",
+        "date_of_birth": "26/04/2025",
+        "country": "Portugal",
+        "phone": "3286811546"
+    },
+    {
+        "id": 14,
+        "first_name": "Verna",
+        "last_name": "Farmloe",
+        "date_of_birth": "01/12/2024",
+        "country": "Portugal",
+        "phone": "9682059534"
+    },
+    {
+        "id": 15,
+        "first_name": "Coleen",
+        "last_name": "Floyed",
+        "date_of_birth": "16/04/2025",
+        "country": "Iran",
+        "phone": "9448191122"
+    }
+]
